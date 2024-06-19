@@ -1,1 +1,2 @@
-# grafica_lp2
+# Projeto de LP2WD3
+Um site desenvolvido em PHP usando Laravel e Bootstrap, o site foi desenvolvido segundo as demandas de uma gráfica, homepage, portifolio de produtos/serviços ofericidos vinculado com banco de dados, contato via mailer, etc... 
